@@ -1,0 +1,9 @@
+Building TielnetCoin
+
+See doc/readme-qt.rst for instructions on building TielnetCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TielnetCoin.
+
+See doc/build-*.txt for instructions on building tielnetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TielnetCoin.

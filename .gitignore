@@ -1,0 +1,34 @@
+src/*.exe
+src/tielnetcoin
+src/tielnetcoind
+src/test_tielnetcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.tielnetcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+tielnetcoin-qt
+TielnetCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+tielnetcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
