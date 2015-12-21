@@ -30,10 +30,6 @@ Unpack the files into a directory and run:
 - bin/64/tielnetcoin-qt (GUI, 64-bit)
 - bin/64/tielnetcoind (headless, 64-bit)
 
-See the documentation at the [TielnetCoin Wiki](http://tielnetcoin.info)
-for help and more information.
-
-
 Other Pages
 ---------------------
 - [Unix Build Notes](build-unix.md)
